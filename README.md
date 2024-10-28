@@ -6,7 +6,7 @@ This is a simple command-line todo list application built using Go.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/todo-cli.git
+   git clone https://github.com/deepak-ganwani/todo-cli.git
    cd todo-cli
    ```
 
