@@ -36,15 +36,16 @@ todo -<command>
 * **`-edit <id>:<new_task>`:** Edits an existing task.
 * **`-list`:** Lists all tasks.
 * **`-toggle <id>`:** Toggles the completion status of a task.
+* ![image](https://github.com/user-attachments/assets/6aeead60-7485-4172-aabe-8b50301fa4a4)
 
 **Example Usage:**
 ```bash
 todo -add "Buy groceries"
 todo -add "Learn Go"
-todo -list
 todo -toggle 1
-todo -del 2
+todo -list
 ```
+* ![image](https://github.com/user-attachments/assets/ecaf6d39-087c-431f-8fc2-49e6881132b8)
 
 **How it Works**
 
